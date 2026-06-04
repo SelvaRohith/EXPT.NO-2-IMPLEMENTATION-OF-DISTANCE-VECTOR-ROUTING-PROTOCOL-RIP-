@@ -3,14 +3,18 @@
 
 To connect computers in multiple networks using Distance Vector Routing Protocol and to verify the connectivity between computers.
 # EQUIPMENTS REQUIRED:
-
+^ Personal Computer ^ Cisco Packey Tracer
 
 
 # IP ASSIGNMENT:
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/1438c136-a4b7-4a28-96bb-aa308a18c233" />
+
 
 
 
 # NETWORK DIAGRAM:
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/a277f872-7609-40d3-aba0-c3a806abb67b" />
+
 # PROCEDURE:
 
 STEP 1: Open a Packet Tracer Software.
@@ -79,6 +83,8 @@ You can also check connectivity between the PCs on different networks to ensure 
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
 # OUTPUT
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/66609437-d247-4e17-bdd9-98ebfb044963" />
+
 
 
 
